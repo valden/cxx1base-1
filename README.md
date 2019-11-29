@@ -15,9 +15,6 @@ In Visual Studio
 
 Linux
 ----------------------------
-You will need CMake and GCC installed - use your package manager
-from a terminal, cd to the CxxExercise directory (cd ~/CxxExercise or similar)
-mkdir build
 cd build
 cmake ..
 make
