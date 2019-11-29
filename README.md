@@ -15,10 +15,10 @@ In Visual Studio
 
 Linux
 ----------------------------
+```
 cd build
 cmake ..
 make
+```
 
 using your favorite editor - follow the instructions in excersize<N>.cpp
-	
-
