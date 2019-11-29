@@ -16,7 +16,6 @@ In Visual Studio
 Linux
 ----------------------------
 You will need CMake and GCC installed - use your package manager
-unzip CxxExercise_Preview
 from a terminal, cd to the CxxExercise directory (cd ~/CxxExercise or similar)
 mkdir build
 cd build
